@@ -1,4 +1,3 @@
 # req_pokemon
 
-
-Requesting json data from pokeapi.co and experimenting extraction.
+Experimenting extraction of json data from pokeapi.co
